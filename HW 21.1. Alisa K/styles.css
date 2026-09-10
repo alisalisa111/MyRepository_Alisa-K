@@ -1,0 +1,83 @@
+body {
+background-color: #ffe5b4;
+margin: 0; padding: 0;
+}   
+
+/* --- Блок навігації --- */
+
+nav {
+background-color: sandybrown;
+color: black;
+padding: 20px 0; 
+border-radius: 5px;
+text-align: center;  
+}
+
+nav a {
+color: black; 
+text-decoration: none; 
+margin-right: 50px;
+padding: 5px 10px;
+font-weight: bold;
+border-radius: 5px;
+}
+
+nav a:hover {
+      background-color: #6e4d0b;
+      color: #ffffff;
+}
+
+/* --- головне фото --- */
+
+img {
+margin-left: 60px; width: 10%; height: auto px;"
+
+}
+
+/* --- блок з текстом --- */
+
+.blok_z_textom {
+margin-left: 40px; font-size: 18px;
+background-color: sandybrown;
+padding: 25px;
+border-radius: 10px;
+color: #021314;
+max-width: 500px;
+
+}
+
+.blok_z_textom2 {
+margin-left: 40px; font-size: 18px;
+background-color: sandybrown;
+padding: 25px;
+border-radius: 10px;
+color: #021314;
+max-width: 500px;
+
+}
+
+/* --- блок з фото портфоліо --- */
+
+figure {
+background-color: sandybrown;
+margin: 50px; padding: 40px;
+border-radius: 10px;
+}
+img {
+
+width: 19%;
+border-radius: 10px;
+}
+
+/* --- блок контакти --- */
+
+.blok_z_textom3 {
+
+margin-left: 40px; font-size: 18px;
+background-color: sandybrown;
+padding: 25px;
+border-radius: 10px;
+color: #021314;
+max-width: 500px;
+}
+
